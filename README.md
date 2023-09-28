@@ -1,0 +1,2 @@
+# pagemode.switch
+ chome extension
